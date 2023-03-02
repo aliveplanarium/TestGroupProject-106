@@ -6,7 +6,7 @@ namespace TestGroupProject_106
         {
             InitializeComponent();
         }
-
+        int b = 100;
         private void button1_Click(object sender, EventArgs e)
         {
             Shushkanov S = new Shushkanov();
