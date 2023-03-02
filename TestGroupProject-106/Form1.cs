@@ -6,5 +6,11 @@ namespace TestGroupProject_106
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Shushkanov S = new Shushkanov();
+            S.explode(69,panel1);
+        }
     }
 }
